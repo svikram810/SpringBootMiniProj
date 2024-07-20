@@ -1,3 +1,3 @@
 # SpringBootMiniProj
-first Repo
+first Repository
 author-vikram singh
